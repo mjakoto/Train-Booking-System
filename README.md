@@ -1,16 +1,3 @@
 Project for CS 336 
 
-...
-Credentials:
-
-Manager:
-username: admin1
-password: adminpass
-
-Customer Representatives:
-username: rep1
-password; reppass
-
-Customer:
-username: testuser
-password: testpass
+View Demo Here: https://drive.google.com/drive/folders/1_2QF7ctSkE0cYg0UNPdhL51Ac0kMN8TN?usp=drive_link
